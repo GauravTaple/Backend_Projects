@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<context:annotation-config />
+	
+<!-- If we have to not use @value annotation in class that time we need to use property and value tag -->
+   <!--1st Bean  -->
+<!-- 	<bean class="com.reldyn.springcore_collection.entity.Autowire2"
+		name="bean1">
+		<property name="price" value="800" />
+		<property name="name" value="cricket" />
+		<property name="contact" value="7894561230"/>
+	</bean> -->
+	
+	<!--2nd Bean  -->
+	<!-- <bean class="com.reldyn.springcore_collection.entity.Autowire2"
+		name="bean">
+		<property name="price" value="1500" />
+		<property name="name" value="football" />
+		<property name="contact" value="0123456789"/>
+		
+	</bean> -->
+
+   
+	<bean class="com.reldyn.springcore_collection.entity.Autowire"
+		name="auto"></bean>
+</beans>
