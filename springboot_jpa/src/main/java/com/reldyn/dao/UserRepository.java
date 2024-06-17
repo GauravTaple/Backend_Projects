@@ -18,7 +18,6 @@ public interface UserRepository extends CrudRepository<User, Integer> {
 		
 		public List<User> findByIdLessThan(int id);
 		
-		
 		@Query("select u from User u")
 		public List<User> getAllUsers();
 		
