@@ -30,3 +30,10 @@ This repository contains a collection of backend development projects created fo
 [![](https://visitcount.itsvg.in/api?id=GauravTaple&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/GauravTaple/Backend_Projects.git
+cd Backend_Projects
