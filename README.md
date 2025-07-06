@@ -15,12 +15,7 @@ This repository contains a collection of backend development projects created fo
 - RESTful APIs
 - Postman (for API testing)
 
-## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/GauravTaple/Backend_Projects.git
-cd Backend_Projects
 ----------
 
 
