@@ -1,5 +1,27 @@
-# 💫 About Me:
-# Backend Projects 🚀<br><br>This repository contains a collection of backend development projects created for learning, experimentation, and practice purposes. These projects demonstrate the use of modern backend technologies, REST API development, and integration with databases and external services.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>- **Java 17+**<br>- **Spring Boot**<br>- **Spring Data JPA**<br>- **MySQL / PostgreSQL**<br>- **Maven / Gradle**<br>- **RESTful APIs**<br>- **Postman (for API testing)**<br><br>---<br><br>## 🚀 How to Run<br><br>1. Clone the repository:<br>   ```bash<br>   git clone https://github.com/GauravTaple/Backend_Projects.git<br>   cd Backend_Projects<br><br>
+Backend Projects 🚀
+
+This repository contains a collection of backend development projects created for learning, experimentation, and practice purposes. These projects demonstrate the use of modern backend technologies, REST API development, and integration with databases and external services.
+
+—
+
+## 🛠️ Tech Stack
+
+- Java 17+
+- Spring Boot
+- Spring Data JPA
+- MySQL / PostgreSQL
+- Maven / Gradle
+- RESTful APIs
+- Postman (for API testing)
+
+—
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/GauravTaple/Backend_Projects.git
+cd Backend_Projects
 
 
 # 💻 Tech Stack:
